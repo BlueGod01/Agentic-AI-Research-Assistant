@@ -2,7 +2,7 @@
 
 # Start FastAPI backend in the background
 echo "Starting FastAPI backend..."
-uvicorn backend.main:app --host 0.0.0.0 --port 8000 &
+uvicorn backend.api.main:app --host 0.0.0.0 --port 8000 &
 
 # Start Streamlit frontend in the foreground
 # This ensures that frontend/app.py is the main running process and its logs are visible

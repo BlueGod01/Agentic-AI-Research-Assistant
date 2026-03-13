@@ -1,14 +1,14 @@
 # Agentic RAG Research Assistant
 
 ## 🚀 Overview
-This project implements a state-of-the-art **Agentic Retrieval-Augmented Generation (RAG)** assistant. It transforms static documents into a dynamic knowledge base, orchestrated by a multi-agent system powered by **LangGraph**.
+This project implements a state-of-the-art **Agentic Retrieval-Augmented Generation (RAG)** assistant. It transforms static documents into a dynamic knowledge base, orchestrated by a multi-agent Research System using **LangGraph** framework.
 
 ## ✨ Features
 - **Intelligent Ingestion**: Uses `Unstructured` for robust parsing of PDF and TXT documents.
 - **Advanced RAG**: Semantic chunking and vector storage via **Pinecone**.
 - **Agentic Reasoning**: A ReAct-based Research Agent that autonomously decides when to query internal documents or search the web (**DuckDuckGo**).
 - **Proactive Orchestration**: An Orchestrator Agent that manages dialogue flow and generates summary PDFs of research findings.
-- **Streamlined UI**: A premium Streamlit dashboard for real-time interaction and document management.
+- **Streamlined UI**: Frontend for User interaction and document management.
 - **Cloud-Ready**: Fully containerized with a unified startup sequence for easy deployment.
 
 ## 🏗️ Architecture

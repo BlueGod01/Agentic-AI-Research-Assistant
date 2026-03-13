@@ -1,4 +1,5 @@
 # Agentic RAG Research Assistant
+<img width="1536" height="1024" alt="Architecture Image Mar 13, 2026, 04_39_29 PM" src="https://github.com/user-attachments/assets/6f29e959-02bb-46f4-a17c-4d4fa8b17624" />
 
 ## 🚀 Overview
 This project implements a state-of-the-art **Agentic Retrieval-Augmented Generation (RAG)** assistant. It transforms static documents into a dynamic knowledge base, orchestrated by a multi-agent system powered by **LangGraph**.

@@ -95,4 +95,4 @@ curl -X POST "http://localhost:8000/query" \
 ```
 
 ---
-
+Version 1---Still under constant development. This is my personal project I am developing while learning the best methodology to build a production grade agentic system.
